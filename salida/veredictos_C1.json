@@ -1,0 +1,372 @@
+{
+  "expediente": "C1",
+  "config": {
+    "modo": "realtime",
+    "effort": "medium"
+  },
+  "items": {
+    "AF-01": {
+      "id": "AF-01",
+      "titulo": "Existencia de la orden de compra",
+      "grupo": null,
+      "texto": "En fecha 26 de septiembre de 2025 la demandada emitió a favor de mi mandante la orden de compra N° 430011742, por la cual le encomendó la provisión de los impresos que en ella se detallan.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-02": {
+      "id": "AF-02",
+      "titulo": "Moneda y plazo de pago pactados",
+      "grupo": null,
+      "texto": "Las partes convinieron que la facturación se emitiría en dólares estadounidenses y que el pago se efectuaría a los sesenta (60) días de la fecha de presentación de cada factura, plazo que a la fecha se encuentra ampliamente vencido respecto de la totalidad de las facturas reclamadas.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-03": {
+      "id": "AF-03",
+      "titulo": "Entrega de la totalidad de los materiales",
+      "grupo": null,
+      "texto": "Mi mandante entregó a la demandada la totalidad de los materiales comprendidos en la orden de compra, conforme surge de los remitos originales que se acompañan.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-04": {
+      "id": "AF-04",
+      "titulo": "Conformidad de los remitos",
+      "grupo": null,
+      "texto": "La totalidad de los remitos fue suscripta de conformidad por el personal de la demandada, sin que se formulara objeción alguna respecto de la mercadería recibida.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-05": {
+      "id": "AF-05",
+      "titulo": "Cantidad entregada del renglón 4",
+      "grupo": null,
+      "texto": "En cumplimiento del renglón 4 de la orden de compra mi mandante entregó ocho mil (8.000) talonarios de planilla de recaudación para uso en boleterías.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-06": {
+      "id": "AF-06",
+      "titulo": "Importe de la factura del inciso d)",
+      "grupo": null,
+      "texto": "La factura de crédito electrónica MiPyMEs N° 0004-00000335, de fecha 20 de febrero de 2026, fue emitida por la suma de u$s 3.802,79.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-07": {
+      "id": "AF-07",
+      "titulo": "Recepción de las facturas por la demandada",
+      "grupo": null,
+      "texto": "La totalidad de las facturas reclamadas fue presentada y efectivamente recibida por la demandada, quedando acreditada su recepción con las constancias que se acompañan.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-08": {
+      "id": "AF-08",
+      "titulo": "Intercambio de correo electrónico",
+      "grupo": null,
+      "texto": "Con anterioridad a promover la presente acción mi mandante mantuvo con la demandada un intercambio de correo electrónico en el que reclamó el pago de lo adeudado, sin obtener respuesta que lo satisficiera.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-09": {
+      "id": "AF-09",
+      "titulo": "Carta documento",
+      "grupo": null,
+      "texto": "En fecha 9 de marzo de 2026 mi parte remitió a la demandada la carta documento N° CD 214880917, intimándola al pago en el plazo de cuarenta y ocho (48) horas bajo apercibimiento de iniciar las acciones judiciales pertinentes. La pieza postal fue efectivamente entregada y no mereció respuesta alguna.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-10": {
+      "id": "AF-10",
+      "titulo": "Pronto despacho",
+      "grupo": null,
+      "texto": "En fecha 12 de marzo de 2026 se presentó ante la Mesa de Entradas de la demandada la nota de pronto despacho N° PD-2026-00418, cuya recepción consta con el sello de Mesa General de Entradas, SOTR S.E..",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-11": {
+      "id": "AF-11",
+      "titulo": "Silencio de la demandada",
+      "grupo": null,
+      "texto": "Ninguna de las presentaciones referidas fue respondida por la demandada dentro de los plazos que la normativa aplicable le impone, configurándose el silencio que habilita la presente acción.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-12": {
+      "id": "AF-12",
+      "titulo": "Suma total reclamada",
+      "grupo": null,
+      "texto": "El total reclamado en autos asciende a DÓLARES ESTADOUNIDENSES SETENTA Y CUATRO MIL TRESCIENTOS NOVENTA Y DOS CON 76/100 (u$s 74.392,76), conforme el detalle que antecede y la certificación contable que se acompaña.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-13": {
+      "id": "AF-13",
+      "titulo": "Fecha de constitución en mora",
+      "grupo": null,
+      "texto": "La demandada quedó constituida en mora de pleno derecho el 22 de abril de 2026, por haber vencido el plazo pactado sin que mediara pago ni observación alguna.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-14": {
+      "id": "AF-14",
+      "titulo": "Intereses pretendidos",
+      "grupo": null,
+      "texto": "Se reclaman los intereses devengados desde la fecha de mora y hasta el efectivo pago, a la tasa activa que aplica el Banco de la Nación Argentina para sus operaciones de descuento a treinta días, con más las costas del proceso.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-15": {
+      "id": "AF-15",
+      "titulo": "Inexistencia de pagos parciales",
+      "grupo": null,
+      "texto": "La demandada no efectuó pago alguno, ni total ni parcial, imputable a la obligación que se reclama en autos.",
+      "origen": {
+        "documento_id": "C1_DEM",
+        "pagina": 3
+      }
+    }
+  },
+  "veredictos": {
+    "AF-01": {
+      "item_id": "AF-01",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-1",
+          "pagina": 1,
+          "fragmento": "Orden de Compra N° 430011742"
+        },
+        {
+          "documento_id": "C1_DOC-1",
+          "pagina": 1,
+          "fragmento": "Fecha de emisión 26 de septiembre de 2025"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación cuenta con dos datos: la fecha de emisión (26 de septiembre de 2025) y el número de orden de compra (430011742). La orden de compra C1_DOC-1 registra ambos datos expresamente, y su objeto (renglones de impresos y formularios) coincide con la provisión descripta."
+    },
+    "AF-02": {
+      "item_id": "AF-02",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-1",
+          "pagina": 3,
+          "fragmento": "El pago se efectuará a los treinta (30) días corridos de la fecha de presentación de la factura en la casilla de recepción de proveedores"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación dice que la facturación sería en dólares, lo que la orden de compra confirma (moneda de la operación: dólares estadounidenses; facturas en USD). Pero la orden de compra fija el pago a treinta (30) días corridos de la presentación de la factura, no a sesenta (60) días. Son datos concretos del plazo pactado que no pueden ser ciertos a la vez."
+    },
+    "AF-03": {
+      "item_id": "AF-03",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-3",
+          "pagina": 5,
+          "fragmento": "Observaciones Recibido sin conformar. Pendiente de verificación de cantidades"
+        },
+        {
+          "documento_id": "C1_DOC-3",
+          "pagina": 6,
+          "fragmento": "Observaciones Recibido con observaciones. No se verificaron las cantidades"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación sostiene que se entregó la totalidad de los materiales de la orden de compra 430011742. La orden fija cantidades firmes para cinco renglones (320, 4.800, 12.000, 6.500 y 2.400), pero los remitos muestran entregas parciales: el renglón 2 aparece con 4.800 (remito 0002-00011673) y con 1.600 (remito 0002-00011807, sin verificar), y el renglón 4 (6.500) figura como \"Recibido sin conformar\" y sin firma del responsable. Como la prueba contradice que se haya entregado la totalidad, el estado es CONTRADICE."
+    },
+    "AF-04": {
+      "item_id": "AF-04",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-3",
+          "pagina": 5,
+          "fragmento": "Observaciones Recibido sin conformar. Pendiente de verificación de cantidades"
+        },
+        {
+          "documento_id": "C1_DOC-3",
+          "pagina": 6,
+          "fragmento": "Observaciones Recibido con observaciones. No se verificaron las cantidades"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación dice que todos los remitos fueron suscriptos de conformidad sin objeción alguna. La prueba registra el remito N° 0002-00011760 como \"Recibido sin conformar. Pendiente de verificación de cantidades\" sin firma del responsable, y el N° 0002-00011807 como \"Recibido con observaciones. No se verificaron las cantidades\" también sin firma, lo que contradice expresamente la afirmación."
+    },
+    "AF-05": {
+      "item_id": "AF-05",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-3",
+          "pagina": 5,
+          "fragmento": "4 Talonario, uso boleterías, planilla de recaudación 6.500"
+        },
+        {
+          "documento_id": "C1_DOC-3",
+          "pagina": 5,
+          "fragmento": "4 Talonario, uso boleterías, planilla de recaudación 6.500"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación dice que se entregaron 8.000 talonarios de planilla de recaudación (renglón 4). La OC establece 6.500 unidades para ese renglón, y el único remito que lo menciona (0002-00011760) registra 6.500 unidades, recibido sin conformar y sin firma del responsable. Hay contradicción directa en la cantidad entregada."
+    },
+    "AF-06": {
+      "item_id": "AF-06",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-2",
+          "pagina": 4,
+          "fragmento": "Total de la factura USD 3.208,79"
+        },
+        {
+          "documento_id": "C1_DOC-4",
+          "pagina": 2,
+          "fragmento": "0004-00000335 20/02/26 3.208,79"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación atribuye a la factura N° 0004-00000335 (20/02/2026) un importe de USD 3.802,79. La factura muestra USD 3.208,79 y la certificación contable también registra 3.208,79 para ese comprobante; el mismo dato tiene otro valor y ambos no pueden ser ciertos a la vez."
+    },
+    "AF-07": {
+      "item_id": "AF-07",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación sostiene que la totalidad de las facturas reclamadas fue presentada y efectivamente recibida por la demandada. La prueba registra los remitos de entrega, pero los remitos de los comprobantes 0004-00000335 (remito 0002-00011807) y 0004-00000336 (remito 0002-00011760) no tienen conformidad del responsable del depósito, y no hay constancia de presentación de las facturas ante la demandada que acredite su recepción de la totalidad; la prueba no confirma la recepción de las facturas en su conjunto."
+    },
+    "AF-08": {
+      "item_id": "AF-08",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación sostiene que hubo un intercambio de correo electrónico con reclamo de pago previo a la demanda. La prueba documenta una carta documento (CD 214880917) y una nota de pronto despacho (PD-2026-00418), pero ningún documento menciona un correo electrónico ni un intercambio por esa vía. Como el medio afirmado no aparece en la prueba, no hay material suficiente para confirmarlo."
+    },
+    "AF-09": {
+      "item_id": "AF-09",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-5",
+          "pagina": 1,
+          "fragmento": "Estado de la pieza Entregada el 11 de marzo de 2026"
+        },
+        {
+          "documento_id": "C1_DOC-5",
+          "pagina": 3,
+          "fragmento": "CD 214880917 11 de marzo de 2026 Sin respuesta registrada a la fecha"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación refiere a la carta documento CD 214880917 impuesta el 9 de marzo de 2026, entregada y sin respuesta. El documento C1_DOC-5 registra fecha de imposición 9/03/2026, estado \"Entregada el 11 de marzo de 2026\" y, en la constancia de seguimiento, \"Sin respuesta registrada a la fecha\" para la misma pieza. Todos los hechos afirmados están confirmados por la prueba."
+    },
+    "AF-10": {
+      "item_id": "AF-10",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-5",
+          "pagina": 2,
+          "fragmento": "Sello de recepción 12 de marzo de 2016"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación da como fecha de presentación de la nota PD-2026-00418 el 12 de marzo de 2026. El documento C1_DOC-5 registra el sello de recepción como \"12 de marzo de 2016\", año distinto al afirmado, y la constancia de seguimiento también indica \"12 de marzo de 2016\". Como el dato de fecha (año) tiene otro valor y ambos no pueden ser ciertos a la vez, corresponde CONTRADICE."
+    },
+    "AF-11": {
+      "item_id": "AF-11",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-5",
+          "pagina": 3,
+          "fragmento": "CD 214880917 11 de marzo de 2026 Sin respuesta registrada a la fecha"
+        },
+        {
+          "documento_id": "C1_DOC-5",
+          "pagina": 3,
+          "fragmento": "PD-2026-00418 12 de marzo de 2016 Sin respuesta registrada a la fecha"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación es negativa (ausencia de respuesta a las presentaciones), y la constancia de seguimiento de actuaciones registra expresamente \"Sin respuesta registrada a la fecha\" para la carta documento CD 214880917 y la nota PD-2026-00418. La parte sobre plazos que impone la normativa aplicable es una conclusión jurídica que no se exige probar, y la prueba no la desmiente expresamente."
+    },
+    "AF-12": {
+      "item_id": "AF-12",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-4",
+          "pagina": 2,
+          "fragmento": "el total de los créditos así registrados asciende a USD 73.798,76."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación da un total reclamado de USD 74.392,76. La certificación contable (C1_DOC-4) fija el total de los créditos en USD 73.798,76, y la suma de los comprobantes detallados en esa misma certificación confirma ese valor (2.347,40 + 15.728,79 + 29.978,74 + 3.208,79 + 22.535,04 = 73.798,76). Como el monto afirmado y el certificado no pueden ser ciertos a la vez, hay contradicción."
+    },
+    "AF-13": {
+      "item_id": "AF-13",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación tiene como objeto la fecha de constitución en mora, que es una conclusión jurídica y no un hecho verificable; además, la prueba no registra una fecha de mora del 22 de abril de 2026. Los hechos de fundamento (transferencia del 28/04/2026 por cancelación de facturas 318, 323 y 326) no contienen ni confirman esa fecha de mora, por lo que no hay material que la respalde ni la desmienta expresamente."
+    },
+    "AF-14": {
+      "item_id": "AF-14",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación tiene por objeto el reclamo de intereses moratorios a una tasa determinada y de costas, que son conclusiones jurídicas y no hechos verificables por la prueba. Revisé la prueba y no hay documento que fije o desmienta expresamente la tasa ni el régimen de intereses aplicable, salvo que la orden de compra (cláusula 5) indica que no genera intereses a favor del proveedor, lo que no desmiente expresamente el dato reclamado en la forma que exige el criterio."
+    },
+    "AF-15": {
+      "item_id": "AF-15",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C1_DOC-6",
+          "pagina": 1,
+          "fragmento": "Concepto Cancelación facturas 318, 323 y 326 — OC 430011742"
+        },
+        {
+          "documento_id": "C1_DOC-6",
+          "pagina": 1,
+          "fragmento": "Estado Acreditada"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación es negativa (no hubo ningún pago imputable a la obligación). La constancia de transferencia de C1_DOC-6 registra una transferencia acreditada el 28/04/2026 por $48.920.330,15 con concepto \"Cancelación facturas 318, 323 y 326 — OC 430011742\", lo que contradice expresamente que no haya habido pago imputable a la obligación reclamada."
+    }
+  }
+}

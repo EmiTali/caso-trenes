@@ -1,0 +1,366 @@
+{
+  "expediente": "C5",
+  "config": {
+    "modo": "realtime",
+    "effort": "medium"
+  },
+  "items": {
+    "AF-01": {
+      "id": "AF-01",
+      "titulo": "Fecha de ingreso y antigüedad reconocida",
+      "grupo": null,
+      "texto": "Mi mandante ingresó a trabajar bajo dependencia de la demandada el 2 de mayo de 2016, con antigüedad reconocida desde el 1 de agosto de 2013 por los servicios prestados en la empresa antecesora.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-02": {
+      "id": "AF-02",
+      "titulo": "Categoría profesional y tareas",
+      "grupo": null,
+      "texto": "Mi mandante se desempeñó como Auxiliar de estación, categoría 8 del C.C.T. 1764/18 «E», realizando tareas de atención al público, control de acceso y manejo de recaudación.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-03": {
+      "id": "AF-03",
+      "titulo": "Jornada y régimen horario",
+      "grupo": null,
+      "texto": "Mi mandante cumplió una jornada rotativa de seis horas diarias en turnos de mañana, tarde y noche, con dos francos semanales no coincidentes, régimen que generó el adicional por trabajo nocturno que nunca le fue abonado.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-04": {
+      "id": "AF-04",
+      "titulo": "Mejor remuneración mensual, normal y habitual",
+      "grupo": null,
+      "texto": "La mejor remuneración mensual, normal y habitual percibida por mi mandante en el último año asciende a $ 1.284.320,18, correspondiente al mes de junio de 2025, base sobre la cual se practica la liquidación que se acompaña.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-05": {
+      "id": "AF-05",
+      "titulo": "Composición de los rubros remunerativos",
+      "grupo": null,
+      "texto": "La remuneración de mi mandante se integró con sueldo básico, adicional por antigüedad del nueve por ciento, adicional de convenio y presentismo.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-06": {
+      "id": "AF-06",
+      "titulo": "Rubros abonados como no remunerativos",
+      "grupo": null,
+      "texto": "La demandada abonó a mi mandante los conceptos «Adicional mensual SUBE» y «Falla de caja» consignándolos como no remunerativos en los recibos de haberes.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-07": {
+      "id": "AF-07",
+      "titulo": "Causa de la extinción",
+      "grupo": null,
+      "texto": "La demandada dispuso el despido sin invocación de causa, limitándose a comunicar la decisión de prescindir de los servicios de mi mandante.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-08": {
+      "id": "AF-08",
+      "titulo": "Intimación previa cursada por la trabajadora",
+      "grupo": null,
+      "texto": "Con anterioridad al distracto mi mandante intimó a la demandada mediante telegrama laboral a que registrara correctamente su categoría profesional y abonara las diferencias salariales devengadas.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-09": {
+      "id": "AF-09",
+      "titulo": "Entrega de los certificados del artículo 80",
+      "grupo": null,
+      "texto": "La demandada nunca entregó ni puso a disposición de mi mandante los certificados de trabajo y de aportes previstos en el artículo 80 de la Ley de Contrato de Trabajo, pese a encontrarse vencido el plazo legal.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-10": {
+      "id": "AF-10",
+      "titulo": "Intercambio de correo electrónico con el área de personal",
+      "grupo": null,
+      "texto": "Con anterioridad al distracto mi mandante mantuvo con el área de personal de la demandada un intercambio de correo electrónico en el que reclamó la correcta registración de su categoría, sin obtener respuesta.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-11": {
+      "id": "AF-11",
+      "titulo": "Intimación por vía telegráfica",
+      "grupo": null,
+      "texto": "En fecha 23 de junio de 2025 mi mandante remitió el telegrama laboral N° TL 88204617 intimando a la empleadora en los términos de la ley 24.013, bajo apercibimiento de considerarse en situación de despido indirecto.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-12": {
+      "id": "AF-12",
+      "titulo": "Suma total reclamada",
+      "grupo": null,
+      "texto": "El total reclamado en autos asciende a PESOS CUARENTA Y UN MILLONES DOSCIENTOS OCHENTA Y CUATRO MIL SEISCIENTOS TREINTA CON 55/100 ($ 41.284.630,55), conforme el detalle que antecede y la liquidación que antecede.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-13": {
+      "id": "AF-13",
+      "titulo": "Fecha de constitución en mora",
+      "grupo": null,
+      "texto": "La demandada quedó constituida en mora de pleno derecho el 14 de julio de 2025, por haber vencido el plazo pactado sin que mediara pago ni observación alguna.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-14": {
+      "id": "AF-14",
+      "titulo": "Intereses pretendidos",
+      "grupo": null,
+      "texto": "Se reclaman los intereses devengados desde la fecha de mora y hasta el efectivo pago, a la tasa activa de la cartera general nominal anual vencida a treinta días del Banco de la Nación Argentina, capitalizable conforme el acta 2764 de la C.N.A.T., con más las costas del proceso.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-15": {
+      "id": "AF-15",
+      "titulo": "Inexistencia de pagos parciales",
+      "grupo": null,
+      "texto": "La demandada no efectuó pago alguno, ni total ni parcial, imputable a la obligación que se reclama en autos.",
+      "origen": {
+        "documento_id": "C5_DEM",
+        "pagina": 3
+      }
+    }
+  },
+  "veredictos": {
+    "AF-01": {
+      "item_id": "AF-01",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-3",
+          "pagina": 2,
+          "fragmento": "Ingreso: 2 de mayo de 2016, con antigüedad reconocida desde el 1 de agosto de 2013 por servicios prestados en empresa antecesora."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación tiene dos datos: fecha de ingreso el 2 de mayo de 2016 y antigüedad reconocida desde el 1 de agosto de 2013. La pericia contable (C5_DOC-3, página 2) registra ambos datos expresamente, y los recibos de haberes confirman la fecha de ingreso del 2 de mayo de 2016."
+    },
+    "AF-02": {
+      "item_id": "AF-02",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-1",
+          "pagina": 1,
+          "fragmento": "Categoría Auxiliar de estación, categoría 6"
+        },
+        {
+          "documento_id": "C5_DOC-2",
+          "pagina": 2,
+          "fragmento": "Su categoría profesional se corresponde con las tareas efectivamente prestadas y se encuentra correctamente registrada conforme C.C.T. 1764/18 «E»."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación sostiene que la actora se desempeñó como Auxiliar de estación categoría 8. Los recibos de haberes y la pericia registran la categoría 6, y la carta documental de la demandada y el informe pericial confirman que la categoría registrada es la 6, lo que contradice la categoría 8 afirmada y ambos datos no pueden ser ciertos a la vez."
+    },
+    "AF-03": {
+      "item_id": "AF-03",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación describe la jornada laboral (seis horas diarias, turnos rotativos, dos francos semanales) y el adicional nocturno impago. La prueba revisada (recibos de haberes, telegramas, pericia contable, acta SECLO y actuaciones de RRHH) registra categoría, fecha de ingreso, remuneraciones y conceptos abonados, pero no menciona jornada, turnos, francos ni adicional por nocturnidad. Ese dato no aparece en ningún documento."
+    },
+    "AF-04": {
+      "item_id": "AF-04",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-3",
+          "pagina": 3,
+          "fragmento": "$ 912.480,44 tomando solamente los conceptos remunerativos."
+        },
+        {
+          "documento_id": "C5_DOC-3",
+          "pagina": 3,
+          "fragmento": "$ 1.284.320,18 tomando los conceptos remunerativos y los no remunerativos."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación ubica la mejor remuneración en $1.284.320,18 correspondiente a junio de 2025. La pericia contable (C5_DOC-3, pág. 3) registra ese mismo importe, pero como resultado de sumar remunerativos y no remunerativos, y en la misma página informa que la mejor remuneración en el sentido normal y habitual de junio de 2025 es de $912.480,44 cuando se toman solo conceptos remunerativos. Los recibos confirman esos totales de junio (C5_DOC-1, pág. 2: Totales remunerativos 912.480,44; no remunerativos 220.600,00). Como el dato afirmado coincide con una suma distinta a la que la prueba identifica como remuneración normal y habitual, y ambas cifras no pueden ser ciertas a la vez como \"mejor remuneración normal y habitual\", corresponde CONTRADICE."
+    },
+    "AF-05": {
+      "item_id": "AF-05",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-1",
+          "pagina": 1,
+          "fragmento": "Adicional convenio 91.872,00"
+        },
+        {
+          "documento_id": "C5_DOC-1",
+          "pagina": 2,
+          "fragmento": "Presentismo 61.248,00"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación menciona cuatro conceptos integrantes de la remuneración (sueldo básico, antigüedad 9 %, adicional de convenio y presentismo). Los recibos de mayo y junio de 2025 registran esos cuatro conceptos como remunerativos, y la pericia los confirma en su tabla. La afirmación no dice que esos sean los únicos conceptos, por lo que los demás componentes (SUBE, falla de caja) no la contradicen."
+    },
+    "AF-06": {
+      "item_id": "AF-06",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-3",
+          "pagina": 3,
+          "fragmento": "Se deja constancia de que los adicionales «Adicional mensual SUBE» y «Falla de caja» se encuentran registrados como no remunerativos conforme las actas acuerdo homologadas del convenio aplicable."
+        },
+        {
+          "documento_id": "C5_DOC-1",
+          "pagina": 1,
+          "fragmento": "Adicional mensual SUBE 128.420,00"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación requiere que los conceptos «Adicional mensual SUBE» y «Falla de caja» figuren como no remunerativos en los recibos. El recibo de mayo y junio de 2025 los registra en la columna \"No remunerativo\" (220.600,00 total no remunerativo), y la pericia contable confirma que ambos están registrados como no remunerativos conforme actas acuerdo homologadas."
+    },
+    "AF-07": {
+      "item_id": "AF-07",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-2",
+          "pagina": 3,
+          "fragmento": "comunícole que a partir de la fecha queda despedida con justa causa por abandono de trabajo, artículo 244 de la Ley de Contrato de Trabajo"
+        },
+        {
+          "documento_id": "C5_DOC-3",
+          "pagina": 2,
+          "fragmento": "Causal registrada: despido con justa causa, artículo 244 L.C.T."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación sostiene que el despido fue sin invocación de causa, pero la Carta Documento CD 258114022 del 14/07/2025 expresamente comunica el despido \"con justa causa por abandono de trabajo, artículo 244 de la Ley de Contrato de Trabajo\", y la pericia registra la causal \"despido con justa causa, artículo 244 L.C.T.\". Esto contradice el dato afirmado."
+    },
+    "AF-08": {
+      "item_id": "AF-08",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-2",
+          "pagina": 1,
+          "fragmento": "Intímoles plazo cuarenta y ocho horas procedan a registrar correctamente mi categoría profesional como Auxiliar de"
+        },
+        {
+          "documento_id": "C5_DOC-2",
+          "pagina": 1,
+          "fragmento": "y abonen diferencias salariales devengadas últimos veinticuatro meses"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación refiere a un telegrama laboral de intimación para registrar la categoría profesional y abonar diferencias salariales. El Telegrama Ley 23.789 N° TL 88204617 de la actora, impuesto el 23/06/2025 y entregado el 25/06/2025, contiene exactamente esa intimación, y la carta documento de la demandada responde a ella, confirmando el hecho. Fue anterior al distracto del 14/07/2025."
+    },
+    "AF-09": {
+      "item_id": "AF-09",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-5",
+          "pagina": 1,
+          "fragmento": "Se comunica que los certificados previstos en el artículo 80 de la Ley de Contrato de Trabajo se encuentran confeccionados y a su disposición en la Gerencia de Recursos Humanos"
+        },
+        {
+          "documento_id": "C5_DOC-5",
+          "pagina": 2,
+          "fragmento": "la ex dependiente no se presentó a retirarlos dentro del plazo previsto"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación niega que la demandada haya entregado o puesto a disposición los certificados del artículo 80 LCT. La prueba contiene la nota NO-2025-00588127-APN-GRH#SOTR del 18/07/2025 que comunica que los certificados están confeccionados y a disposición de la trabajadora, y una constancia del 22/07/2025 que registra que la ex dependiente no se presentó a retirarlos. Esto contradice expresamente la afirmación de que nunca fueron puestos a disposición."
+    },
+    "AF-10": {
+      "item_id": "AF-10",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación refiere a un intercambio de correos electrónicos previo al distracto con el área de personal, en el que se reclamó la categoría sin respuesta. La prueba documenta un telegrama de la actora (23/06/2025) y una carta documento de la demandada que lo rechaza, pero ningún documento menciona correos electrónicos ni la ausencia de respuesta a un correo. Como el dato central (el intercambio de correo electrónico) no surge de la prueba, no hay material suficiente."
+    },
+    "AF-12": {
+      "item_id": "AF-12",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación cuantifica un total reclamado de $41.284.630,55 remitiendo a un detalle y liquidación que no figuran en la prueba. Los documentos del expediente registran remuneraciones, la liquidación final y el ofrecimiento conciliatorio de $9.400.000, pero ninguno fija el monto total reclamado en autos. Como no hay dato que confirme ni contradiga ese total, corresponde SIN MATERIAL."
+    },
+    "AF-13": {
+      "item_id": "AF-13",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación es una conclusión jurídica sobre la fecha de mora de la demandada, por lo que no es un hecho verificable que la prueba pueda confirmar o desmentir. La prueba revisada (recibos, telegramas, pericia, acta SECLO y actuaciones de RRHH) no establece un plazo pactado ni una mora expresa; no hay dato que contradiga el hecho afirmado."
+    },
+    "AF-14": {
+      "item_id": "AF-14",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación tiene por objeto los intereses, la tasa aplicable, la capitalización y las costas, que son conclusiones jurídicas y no hechos verificables por la prueba. Ningún documento desmiente expresamente esa tasa o capitalización, por lo que no hay material para confirmar ni contradecir."
+    },
+    "AF-15": {
+      "item_id": "AF-15",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-3",
+          "pagina": 4,
+          "fragmento": "Consta su pago mediante transferencia bancaria de fecha 8 de agosto de 2025 por $ 1.543.485,88 a la cuenta sueldo de la trabajadora"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación es negativa y niega cualquier pago de la demandada. La pericia contable (C5_DOC-3, página 4) registra expresamente una transferencia bancaria del 8 de agosto de 2025 por $1.543.485,88 a la cuenta sueldo de la trabajadora, y los recibos de haberes de mayo a julio de 2025 muestran netos percibidos, lo que contradice que no hubo pago alguno. El pago está registrado expresamente y no puede coexistir con la afirmación."
+    },
+    "AF-11": {
+      "item_id": "AF-11",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C5_DOC-2",
+          "pagina": 1,
+          "fragmento": "Telegrama Ley 23.789 N° TL 88204617"
+        },
+        {
+          "documento_id": "C5_DOC-2",
+          "pagina": 1,
+          "fragmento": "Fecha de imposición 23 de junio de 2025"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación da como hechos la fecha de imposición (23/06/2025) y el número del telegrama TL 88204617, ambos coinciden con C5_DOC-2 página 1. El texto del telegrama cuenta con intimación y apercibimiento, aunque el documento cortado no permite leer la parte final del apercibimiento ni la referencia expresa a la ley 24.013; esos elementos no se pueden confirmar, pero la fecha y el número sí están respaldados."
+    }
+  }
+}

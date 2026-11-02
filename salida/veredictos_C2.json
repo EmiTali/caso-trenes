@@ -1,0 +1,328 @@
+{
+  "expediente": "C2",
+  "config": {
+    "modo": "realtime",
+    "effort": "medium"
+  },
+  "items": {
+    "AF-01": {
+      "id": "AF-01",
+      "titulo": "Existencia de la orden de compra",
+      "grupo": null,
+      "texto": "En fecha 11 de marzo de 2025 la demandada emitió la orden de compra N° 4520002029, tramitada bajo el expediente EX-2025-00133907-APN-GCO#SOTR, por la cual encomendó a mi mandante la provisión del equipamiento que en ella se detalla.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-02": {
+      "id": "AF-02",
+      "titulo": "Plazo de pago pactado",
+      "grupo": null,
+      "texto": "Se acordó el pago a los sesenta (60) días de la fecha de presentación de la factura, plazo que se encuentra ampliamente vencido, encontrándose la demandada en mora.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-03": {
+      "id": "AF-03",
+      "titulo": "Entrega en tiempo y forma",
+      "grupo": null,
+      "texto": "Los ocho cambiadores de bebé fueron entregados en tiempo y forma el 14 de abril de 2025, conforme el remito N° 0002-00008644 que se acompaña.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-04": {
+      "id": "AF-04",
+      "titulo": "Conformidad del área requirente",
+      "grupo": null,
+      "texto": "El área requirente de la demandada prestó conformidad a la recepción del renglón 1, quedando expedito el trámite de pago de la factura correspondiente.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-05": {
+      "id": "AF-05",
+      "titulo": "Rechazo de la primera factura en el portal de A.F.I.P..",
+      "grupo": null,
+      "texto": "La factura N° 00005-00000143, emitida el 14 de abril de 2025, fue rechazada en el portal de A.F.I.P. por no contar con la certificación del usuario al momento del vencimiento, motivo por el cual la demandada solicitó su refacturación.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-06": {
+      "id": "AF-06",
+      "titulo": "Refacturación observada",
+      "grupo": null,
+      "texto": "En fecha 5 de julio de 2025 mi mandante emitió la factura N° 00005-00000158 por el mismo importe, que también fue observada por la demandada.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-07": {
+      "id": "AF-07",
+      "titulo": "Rechazo por tipo de cambio",
+      "grupo": null,
+      "texto": "La factura N° 00005-00000172, emitida el 9 de agosto de 2025, fue rechazada por la demandada por aplicar un tipo de cambio distinto del que correspondía al día de emisión, indicándose que el total a facturar ascendía a $ 452.535,16.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-08": {
+      "id": "AF-08",
+      "titulo": "Contabilización de la factura reclamada",
+      "grupo": null,
+      "texto": "La factura N° 00005-00000173, que es la que se reclama en autos, fue procesada por la demandada y contabilizada el 10 de agosto de 2025, según le fuera informado a mi mandante por la propia Tesorería.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-09": {
+      "id": "AF-09",
+      "titulo": "Intercambio de correo electrónico",
+      "grupo": null,
+      "texto": "Con anterioridad a promover la presente acción mi mandante mantuvo con la demandada un intercambio de correo electrónico en el que reclamó el pago de lo adeudado, sin obtener respuesta que lo satisficiera.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-10": {
+      "id": "AF-10",
+      "titulo": "Carta documento",
+      "grupo": null,
+      "texto": "En fecha 12 de enero de 2026 mi parte remitió a la demandada la carta documento N° CD 197340228, intimándola al pago en el plazo de cuarenta y ocho (48) horas bajo apercibimiento de iniciar las acciones judiciales pertinentes. La pieza postal fue efectivamente entregada y no mereció respuesta alguna.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-11": {
+      "id": "AF-11",
+      "titulo": "Pronto despacho",
+      "grupo": null,
+      "texto": "En fecha 15 de enero de 2026 se presentó ante la Mesa de Entradas de la demandada la nota de pronto despacho N° PD-2026-00061, cuya recepción consta con el sello de Mesa General de Entradas, SOTR S.E..",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-12": {
+      "id": "AF-12",
+      "titulo": "Suma total reclamada",
+      "grupo": null,
+      "texto": "El total reclamado en autos asciende a PESOS CUATROCIENTOS NOVENTA Y OCHO MIL DOSCIENTOS DOCE CON 70/100 ($ 498.212,70), conforme el detalle que antecede y la certificación contable que se acompaña.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-13": {
+      "id": "AF-13",
+      "titulo": "Fecha de constitución en mora",
+      "grupo": null,
+      "texto": "La demandada quedó constituida en mora de pleno derecho el 10 de octubre de 2025, por haber vencido el plazo pactado sin que mediara pago ni observación alguna.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-14": {
+      "id": "AF-14",
+      "titulo": "Intereses pretendidos",
+      "grupo": null,
+      "texto": "Se reclaman los intereses devengados desde la fecha de mora y hasta el efectivo pago, a la tasa activa que aplica el Banco de la Nación Argentina para sus operaciones de descuento de documentos a treinta días, con más las costas del proceso.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-15": {
+      "id": "AF-15",
+      "titulo": "Inexistencia de pagos parciales",
+      "grupo": null,
+      "texto": "La demandada no efectuó pago alguno, ni total ni parcial, imputable a la obligación que se reclama en autos.",
+      "origen": {
+        "documento_id": "C2_DEM",
+        "pagina": 3
+      }
+    }
+  },
+  "veredictos": {
+    "AF-02": {
+      "item_id": "AF-02",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C2_DOC-1",
+          "pagina": 3,
+          "fragmento": "El pago se efectuará a los cuarenta y cinco (45) días corridos de la fecha de presentación de la factura"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación alega un plazo de pago pactado de sesenta (60) días desde la presentación de la factura, pero la cláusula 1 de la Orden de compra N° 4520002029 (C2_DOC-1, página 3) fija el pago a los cuarenta y cinco (45) días corridos. Ambos datos no pueden ser ciertos a la vez, por lo que hay contradicción sobre el plazo pactado; la mora es una conclusión jurídica que no se evalúa por separado."
+    },
+    "AF-03": {
+      "item_id": "AF-03",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación atribuye una entrega de los ocho cambiadores el 14 de abril de 2025 según el remito 0002-00008644. La prueba registra la factura del 14/04/2025 que cita ese remito, pero no contiene el remito en sí ni confirma una entrega en fecha y forma. Además, el memorándum de la demandada dice que la recepción de los ocho cambiadores no fue conformada, lo que no contradice la entrega material pero impide confirmar que fue \"en tiempo y forma\"; no hay dato que confirme la fecha de entrega del remito."
+    },
+    "AF-04": {
+      "item_id": "AF-04",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C2_DOC-4",
+          "pagina": 1,
+          "fragmento": "El área requirente dejó constancia de que la recepción de los ocho cambiadores de bebé no fue conformada, por no haberse acreditado el cumplimiento de las medidas indicadas en la especificación técnica."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación sostiene que el área requirente prestó conformidad al renglón 1. El memorándum ME-2026-01254057 de la demandada dice expresamente que la recepción de los cambiadores no fue conformada y que la factura se encuentra en trámite de conformación, lo que contradice directamente la conformidad afirmada y el trámite de pago expedito."
+    },
+    "AF-05": {
+      "item_id": "AF-05",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C2_DOC-3",
+          "pagina": 2,
+          "fragmento": "la factura se encuentra rechazada en el portal de AFIP, por no contar con la certificación del usuario al momento del vencimiento. Solicitamos proceder a la refacturación."
+        },
+        {
+          "documento_id": "C2_DOC-2",
+          "pagina": 1,
+          "fragmento": "N° 00005-00000143"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación se refiere a la factura N° 00005-00000143 emitida el 14/04/2025, que coincide con la factura de C2_DOC-2 p.1. El correo del 28/06/2025 de C2_DOC-3 p.2 informa el rechazo de esa factura en el portal de AFIP por falta de certificación del usuario y solicita la refacturación, por lo que todos los hechos afirmados están confirmados."
+    },
+    "AF-06": {
+      "item_id": "AF-06",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La factura N° 00005-00000158 consta con fecha de emisión 5 de julio de 2025 y total $399.784,00, igual al importe de la factura original, lo que confirma la emisión, la fecha y el monto. Sin embargo, la prueba no contiene ninguna observación de la demandada específicamente sobre la factura 00005-00000158: las observaciones del correo de 9 de agosto de 2025 se refieren a la factura 00005-00000172 y el memorándum de 2 de febrero de 2026 no identifica la factura por número. Como falta respaldo para la parte de que fue observada, no alcanza para ENCONTRADO."
+    },
+    "AF-07": {
+      "item_id": "AF-07",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C2_DOC-3",
+          "pagina": 3,
+          "fragmento": "La factura N° 00005-00000172 fue emitida por $ 399.784, aplicando un tipo de cambio que no corresponde al día de emisión."
+        },
+        {
+          "documento_id": "C2_DOC-3",
+          "pagina": 3,
+          "fragmento": "Total a facturar $ 452.535,16."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación da varios datos: factura N° 00005-00000172 del 9 de agosto de 2025, rechazo por tipo de cambio incorrecto y total a facturar de $452.535,16. El correo del 9/08/2025 de la demandada confirma la observación por tipo de cambio que no corresponde al día de emisión y el \"Total a facturar $ 452.535,16\", y la factura 00005-00000172 consta con fecha 9 de agosto de 2025. Todos los datos afirmados están confirmados por la prueba."
+    },
+    "AF-08": {
+      "item_id": "AF-08",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación atribuye a la factura N° 00005-00000173 el procesamiento y contabilización el 10 de agosto de 2025. El correo del 30 de septiembre de 2025 dice que la factura procesada y contabilizada el 10 de agosto es la N° 00005-00000172, no la 00005-00000173, por lo que el dato de la fecha de contabilización no corresponde a la factura afirmada; sin embargo, no hay constancia de que la 00005-00000173 haya sido procesada o contabilizada en ninguna fecha. Además, la atribución a \"la propia Tesorería\" no aparece en la prueba, que solo muestra un área de sistemas o recepción de proveedores. Como el dato central de la afirmación no está respaldado para la factura reclamada y el único dato similar se refiere a otra factura, no alcanza para ENCONTRADO ni configura una contradicción directa sobre la 00005-00000173."
+    },
+    "AF-09": {
+      "item_id": "AF-09",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación refiere a un intercambio de correo en el que la actora reclamó el pago y no obtuvo respuesta satisfactoria. La prueba contiene un intercambio de correos (C2_DOC-3) iniciado por la actora el 31/05/2025 y respuestas de la demandada del 28/06/2025, 09/08/2025 y 30/09/2025, pero ninguno de esos correos es un reclamo de pago de lo adeudado: se trata de presentación de factura, rechazo de factura, observaciones sobre tipo de cambio y consulta de estado. La calificación de \"sin respuesta satisfactoria\" es valorativa, y el dato de un reclamo de pago no está confirmado en el material revisado."
+    },
+    "AF-10": {
+      "item_id": "AF-10",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación refiere a una carta documento N° CD 197340228 remitida el 12/01/2026 con intimación de pago y entrega efectiva sin respuesta. Revisé los cuatro documentos del expediente (orden de compra, facturas, correos y memorándum/nota de la demandada) y ninguno menciona una carta documento, su número, la fecha de envío del 12/01/2026, ni su entrega o falta de respuesta. El único acto del 2026 mencionado es la nota de pronto despacho PD-2026-00061 presentada el 15/01/2026, que no es la pieza afirmada."
+    },
+    "AF-11": {
+      "item_id": "AF-11",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C2_DOC-4",
+          "pagina": 2,
+          "fragmento": "Se acusa recibo de la nota de pronto despacho presentada en fecha 15 de enero de 2026 ante la Mesa General de Entradas de esta sociedad, la que fuera registrada bajo el número de referencia."
+        }
+      ],
+      "confianza": null,
+      "nota": "La nota NO-2026-01293598-APN-SG#SOTR de la Secretaría General acusa recibo de la nota de pronto despacho PD-2026-00061 presentada el 15 de enero de 2026 ante la Mesa General de Entradas, lo que coincide con la fecha, el número de referencia y la mesa de entradas afirmados. La afirmación sobre el sello queda respaldada por la mención de registro en esa mesa, aunque no se describe el sello físico."
+    },
+    "AF-12": {
+      "item_id": "AF-12",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C2_DOC-2",
+          "pagina": 4,
+          "fragmento": "Total de la factura $ 452.535,16"
+        },
+        {
+          "documento_id": "C2_DOC-3",
+          "pagina": 3,
+          "fragmento": "Total a facturar $ 452.535,16."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación cuantifica el total reclamado en $ 498.212,70. La prueba fija el importe de la factura vigente en $ 452.535,16 (factura N° 00005-00000173, que reemplaza a la de $ 399.784,00) y no contiene ningún documento que registre un total de $ 498.212,70. Como la prueba fija un importe distinto del monto reclamado, y ambos no pueden ser el total reclamado a la vez, corresponde CONTRADICE."
+    },
+    "AF-13": {
+      "item_id": "AF-13",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación versa sobre la fecha en que la demandada quedó en mora, que es una conclusión jurídica y no un hecho verificable; además la prueba muestra observaciones formuladas por la demandada (correos del 9/08/2025 y memorándum del 2/02/2026), lo que desmiente la alegación de ausencia de observación. Como el objeto es la mora, corresponde SIN MATERIAL."
+    },
+    "AF-14": {
+      "item_id": "AF-14",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación AF-14 reclama intereses a una tasa determinada y costas, lo que es una conclusión jurídica sobre mora, intereses y costas, no un hecho verificable que la prueba pueda confirmar o desmentir. La prueba documental (orden de compra, facturas, correos y memorándum) no menciona ninguna tasa activa del Banco de la Nación ni la fecha de mora reclamada, por lo que no hay material que la respalde ni que la contradiga expresamente."
+    },
+    "AF-15": {
+      "item_id": "AF-15",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación es negativa (no hubo ningún pago). La prueba revisada (orden de compra, facturas, correos y memorándum) trata de la facturación, la observación y la conformación del renglón 1, pero no contiene ningún documento que registre un pago ni que expresamente diga que no hubo pago. Una afirmación negativa no se respalda con la mera falta de menciones, por lo que no hay material para confirmarla ni para desmentirla."
+    },
+    "AF-01": {
+      "item_id": "AF-01",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C2_DOC-1",
+          "pagina": 1,
+          "fragmento": "Fecha de emisión 11 de marzo de 2025"
+        },
+        {
+          "documento_id": "C2_DOC-1",
+          "pagina": 1,
+          "fragmento": "Expediente EX-2025-00133907-APN-GCO#SOTR"
+        }
+      ],
+      "confianza": null,
+      "nota": "La orden de compra C2_DOC-1 registra como fecha de emisión el 11 de marzo de 2025 y el número 4520002029, emitida por la demandada al proveedor con el detalle de renglones de equipamiento. El expediente EX-2025-00133907-APN-GCO#SOTR también figura en el mismo documento. Todos los datos afirmados coinciden."
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "expediente": "C4",
+  "config": {
+    "modo": "realtime",
+    "effort": "medium"
+  },
+  "items": {
+    "AF-01": {
+      "id": "AF-01",
+      "titulo": "Existencia de la orden de compra",
+      "grupo": null,
+      "texto": "En fecha 18 de julio de 2025 la demandada emitió la orden de compra N° 430014908, tramitada bajo el expediente EX-2025-00611240-APN-GMR#SOTR, para el suministro de repuestos destinados a su material rodante.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-02": {
+      "id": "AF-02",
+      "titulo": "Objeto de la orden de compra",
+      "grupo": null,
+      "texto": "La orden de compra comprendió cinco renglones: zapatas de freno compuestas, amortiguadores verticales de suspensión secundaria, bujes elásticos de brazo de arrastre, placas de desgaste de patín de tercer riel y juntas de estanqueidad para puertas de acceso.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-03": {
+      "id": "AF-03",
+      "titulo": "Plazo de pago pactado",
+      "grupo": null,
+      "texto": "El pago de cada entrega se convino a los noventa (90) días corridos de la presentación de la factura respectiva.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-04": {
+      "id": "AF-04",
+      "titulo": "Documentación exigida al proveedor",
+      "grupo": null,
+      "texto": "La orden de compra no exigió a mi mandante la presentación de certificados de origen ni de trazabilidad, extremo que la demandada introdujo con posterioridad y sin sustento contractual.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-05": {
+      "id": "AF-05",
+      "titulo": "Entrega de la totalidad de los renglones",
+      "grupo": null,
+      "texto": "Mi mandante entregó la totalidad de los repuestos comprendidos en los cinco renglones de la orden de compra, en las cantidades allí previstas.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-06": {
+      "id": "AF-06",
+      "titulo": "Calidad del material entregado",
+      "grupo": null,
+      "texto": "El material entregado responde íntegramente a las especificaciones técnicas requeridas y fue aceptado sin observación de calidad alguna.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-07": {
+      "id": "AF-07",
+      "titulo": "Importe de la primera factura",
+      "grupo": null,
+      "texto": "La factura N° 0007-00000512, de fecha 22 de septiembre de 2025, fue emitida por la suma de $ 31.480.200,00.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-08": {
+      "id": "AF-08",
+      "titulo": "Ausencia de observaciones a las facturas",
+      "grupo": null,
+      "texto": "Ninguna de las facturas emitidas fue observada ni objetada por la demandada dentro de los plazos legales, por lo que constituyen cuenta líquida y exigible.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-09": {
+      "id": "AF-09",
+      "titulo": "Carta documento",
+      "grupo": null,
+      "texto": "En fecha 29 de enero de 2026 mi parte remitió a la demandada la carta documento N° CD 245118036, intimándola al pago en el plazo de cuarenta y ocho (48) horas bajo apercibimiento de iniciar las acciones judiciales pertinentes. La pieza postal fue efectivamente entregada y no mereció respuesta alguna.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-10": {
+      "id": "AF-10",
+      "titulo": "Pronto despacho",
+      "grupo": null,
+      "texto": "En fecha 4 de febrero de 2026 se presentó ante la Mesa de Entradas de la demandada la nota de pronto despacho N° RA-2026-00147, cuya recepción consta con el sello de Mesa General de Entradas, SOTR S.E..",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-11": {
+      "id": "AF-11",
+      "titulo": "Silencio de la demandada",
+      "grupo": null,
+      "texto": "Ninguna de las presentaciones referidas fue respondida por la demandada dentro de los plazos que la normativa aplicable le impone, configurándose el silencio que habilita la presente acción.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-12": {
+      "id": "AF-12",
+      "titulo": "Suma total reclamada",
+      "grupo": null,
+      "texto": "El total reclamado en autos asciende a PESOS NOVENTA Y DOS MILLONES SETECIENTOS CUARENTA Y CUATRO MIL CIENTO OCHENTA CON 00/100 ($ 92.744.180,00), conforme el detalle que antecede y la certificación contable que se acompaña.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-13": {
+      "id": "AF-13",
+      "titulo": "Fecha de constitución en mora",
+      "grupo": null,
+      "texto": "La demandada quedó constituida en mora de pleno derecho el 6 de diciembre de 2025, por haber vencido el plazo pactado sin que mediara pago ni observación alguna.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-14": {
+      "id": "AF-14",
+      "titulo": "Intereses pretendidos",
+      "grupo": null,
+      "texto": "Se reclaman los intereses devengados desde la fecha de mora y hasta el efectivo pago, a la tasa activa del Banco de la Nación Argentina para operaciones de descuento a treinta días, con más las costas del proceso.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-15": {
+      "id": "AF-15",
+      "titulo": "Inexistencia de pagos parciales",
+      "grupo": null,
+      "texto": "La demandada no efectuó pago alguno, ni total ni parcial, imputable a la obligación que se reclama en autos.",
+      "origen": {
+        "documento_id": "C4_DEM",
+        "pagina": 3
+      }
+    }
+  },
+  "veredictos": {
+    "AF-01": {
+      "item_id": "AF-01",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-1",
+          "pagina": 1,
+          "fragmento": "Fecha de emisión 18 de julio de 2025"
+        },
+        {
+          "documento_id": "C4_DOC-1",
+          "pagina": 1,
+          "fragmento": "Expediente EX-2025-00611240-APN-GMR#SOTR"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación cuenta con tres datos verificables: la fecha de emisión (18 de julio de 2025), el número de orden de compra (430014908) y el expediente EX-2025-00611240-APN-GMR#SOTR. El documento C4_DOC-1 registra los tres en su página 1, con \"Fecha de emisión 18 de julio de 2025\", y el objeto de suministro de repuestos para material rodante surge del detalle de renglones y de las facturas. Todos los datos coinciden, por lo que corresponde ENCONTRADO."
+    },
+    "AF-02": {
+      "item_id": "AF-02",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-1",
+          "pagina": 2,
+          "fragmento": "5 Junta de estanqueidad para puerta de acceso unidad 600"
+        },
+        {
+          "documento_id": "C4_DOC-1",
+          "pagina": 2,
+          "fragmento": "1 Zapata de freno compuesta, tipo K, para coche remolcado unidad 480"
+        }
+      ],
+      "confianza": null,
+      "nota": "La orden de compra N° 430014908 (C4_DOC-1, página 2) detalla exactamente cinco renglones: zapata de freno compuesta tipo K, amortiguador vertical de suspensión secundaria, buje elástico de brazo de arrastre, placa de desgaste de patín de tercer riel y junta de estanqueidad para puerta de acceso. Coincide con la descripción de la afirmación."
+    },
+    "AF-03": {
+      "item_id": "AF-03",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-1",
+          "pagina": 3,
+          "fragmento": "1. El pago de cada entrega se efectuará a los treinta (30) días corridos de la presentación de la factura, previa conformidad de recepción del área requirente."
+        }
+      ],
+      "confianza": null,
+      "nota": "La cláusula 1 de la orden de compra 430014908 fija el pago de cada entrega a los treinta (30) días corridos de la presentación de la factura, no a los noventa días afirmados. Es el mismo dato (plazo de pago) con otro valor, y ambos no pueden ser ciertos a la vez."
+    },
+    "AF-04": {
+      "item_id": "AF-04",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-1",
+          "pagina": 3,
+          "fragmento": "El proveedor deberá acompañar, por cada lote entregado, la documentación de trazabilidad que se indica en el Anexo A."
+        },
+        {
+          "documento_id": "C4_DOC-1",
+          "pagina": 4,
+          "fragmento": "La mercadería se entregará en embalaje original del fabricante, con etiqueta de trazabilidad y certificado de origen por cada lote."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación niega que la orden de compra exigiera certificados de origen o trazabilidad. La cláusula 3 y el Anexo A.1 de la orden de compra exigen expresamente la documentación de trazabilidad y el certificado de origen por cada lote, lo que contradice directamente la afirmación."
+    },
+    "AF-05": {
+      "item_id": "AF-05",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-3",
+          "pagina": 1,
+          "fragmento": "se deja constancia de que la entrega es parcial: de las doscientas cuarenta (240) placas de desgaste de patín de tercer riel del renglón 4 se reciben ciento cuarenta (140), y de las seiscientas (600) juntas de estanqueidad del renglón 5 se reciben cuatrocientas (400)."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación sostiene que se entregaron todas las cantidades de los cinco renglones de la orden de compra. El acta ACTA-2025-00088-GMR#SOTR registra que la entrega fue parcial: se recibieron 140 de 240 placas (renglón 4) y 400 de 600 juntas (renglón 5), lo que es incompatible con una entrega total de esas cantidades."
+    },
+    "AF-06": {
+      "item_id": "AF-06",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-3",
+          "pagina": 1,
+          "fragmento": "Se recibe bajo reserva de verificación de trazabilidad, por no acompañarse el certificado de origen de los lotes."
+        },
+        {
+          "documento_id": "C4_DOC-3",
+          "pagina": 2,
+          "fragmento": "la factura N° 0007-00000561 ha sido observada por esta Gerencia, por no corresponder al material efectivamente recibido"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación sostiene que el material responde íntegramente a las especificaciones y fue aceptado sin observación de calidad. La prueba muestra que el tercer lote se recibió bajo reserva de trazabilidad por falta de certificado de origen, y que la factura 0007-00000561 fue observada por no corresponder al material efectivamente recibido. Esto contradice la aceptación sin observación, aunque no hay un dato numérico que lo confronte directamente."
+    },
+    "AF-07": {
+      "item_id": "AF-07",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-2",
+          "pagina": 1,
+          "fragmento": "Fecha de emisión 22 de septiembre de 2025"
+        },
+        {
+          "documento_id": "C4_DOC-2",
+          "pagina": 1,
+          "fragmento": "Total de la factura $ 31.480.200,00"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación refiere a la factura N° 0007-00000512 del 22/09/2025 por $31.480.200,00. La factura C4_DOC-2 página 1 registra ese número, esa fecha de emisión y ese total, por lo que los datos afirmados están confirmados."
+    },
+    "AF-08": {
+      "item_id": "AF-08",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-3",
+          "pagina": 2,
+          "fragmento": "Se hace saber que la factura N° 0007-00000561 ha sido observada por esta Gerencia"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación es una conclusión jurídica (que las facturas no fueron observadas dentro de plazos legales y que son cuenta líquida y exigible) sobre un hecho que la prueba desmiente expresamente: la Nota NO-2025-00694511-APN-GMR#SOTR del 28/11/2025 observa la factura N° 0007-00000561. Esa observación es un dato concreto que contradice el hecho de que ninguna factura fue observada."
+    },
+    "AF-09": {
+      "item_id": "AF-09",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación refiere a una carta documento N° CD 245118036 enviada el 29/01/2026 con intimación de pago y falta de respuesta. Revisé los tres documentos de la prueba (orden de compra, facturas y actuaciones administrativas) y ninguno menciona carta documento, intimación del 29 de enero de 2026, ni la falta de respuesta a tal pieza postal."
+    },
+    "AF-10": {
+      "item_id": "AF-10",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-3",
+          "pagina": 3,
+          "fragmento": "Se tiene por presentado el reclamo administrativo previo RA-2026-00147, registrado por la Mesa General de Entradas el 4 de febrero de 2026."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación indica que el 4 de febrero de 2026 se presentó el reclamo N° RA-2026-00147 ante Mesa de Entradas. La providencia PV-2026-00170833 registra expresamente que el reclamo RA-2026-00147 fue registrado por la Mesa General de Entradas el 4 de febrero de 2026, lo que confirma fecha, número y receptora. La denominación \"nota de pronto despacho\" no aparece en la prueba, que lo llama reclamo administrativo previo, pero el hecho de la presentación y su fecha quedan respaldados."
+    },
+    "AF-11": {
+      "item_id": "AF-11",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación es una conclusión sobre la falta de respuesta dentro de plazos normativos y la configuración del silencio, que son calificaciones jurídicas y no hechos verificables. La prueba documenta una nota de observación (28/11/2025) y una providencia (9/02/2026) emitidas por la demandada, pero no hay elementos que permitan confirmar o desmentir expresamente la falta de respuesta dentro de plazos legales."
+    },
+    "AF-12": {
+      "item_id": "AF-12",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C4_DOC-2",
+          "pagina": 3,
+          "fragmento": "Son PESOS VEINTIUNO MILLONES NOVENTA Y CUATRO MIL OCHOCIENTOS OCHENTA CON 00/100."
+        },
+        {
+          "documento_id": "C4_DOC-2",
+          "pagina": 1,
+          "fragmento": "Total de la factura $ 31.480.200,00"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación reclama un total de $92.744.180,00, que surge de la suma de las facturas emitidas: $31.480.200,00 + $24.912.760,00 + $21.094.880,00 = $77.487.840,00. Las tres facturas son el detalle del reclamo y su suma no coincide con el monto afirmado, por lo que no pueden ser ciertos a la vez."
+    },
+    "AF-13": {
+      "item_id": "AF-13",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación se refiere a la fecha en que la demandada quedó en mora, lo que es una conclusión jurídica sobre mora y no un hecho verificable. Aunque la prueba contiene facturas, acta y una nota de observación, no desmiente expresamente la fecha de mora del 6 de diciembre de 2025, por lo que no corresponde juzgarla como hecho."
+    },
+    "AF-14": {
+      "item_id": "AF-14",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación tiene por objeto el reclamo de intereses desde la mora, a una tasa determinada, y costas, lo que es una conclusión jurídica y no un hecho verificable. La orden de compra incluso establece expresamente que no genera intereses a favor del proveedor, pero eso no desmiente un dato fáctico afirmado; la prueba no contiene ningún dato sobre la tasa activa ni sobre la fecha de mora. Corresponde SIN MATERIAL."
+    },
+    "AF-15": {
+      "item_id": "AF-15",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación es negativa (ausencia de pagos). La prueba no contiene ningún comprobante de pago, transferencia ni cancelación de las facturas; solo registra facturas emitidas en cuenta corriente y actuaciones administrativas. Una afirmación negativa solo se respalda con un documento que lo diga expresamente, y ninguno lo hace, por lo que no hay material suficiente."
+    }
+  }
+}

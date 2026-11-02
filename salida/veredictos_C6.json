@@ -1,0 +1,344 @@
+{
+  "expediente": "C6",
+  "config": {
+    "modo": "realtime",
+    "effort": "medium"
+  },
+  "items": {
+    "AF-01": {
+      "id": "AF-01",
+      "titulo": "Fecha de ingreso y vigencia del vínculo",
+      "grupo": null,
+      "texto": "Mi mandante ingresó a trabajar bajo dependencia de la demandada el 16 de marzo de 2011 y continúa prestando servicios a la fecha de esta presentación.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-02": {
+      "id": "AF-02",
+      "titulo": "Categoría en la que se encuentra registrado",
+      "grupo": null,
+      "texto": "La demandada registra a mi mandante en la categoría Operario especializado, categoría 5 del C.C.T. 1442/15 «T», y sobre esa base liquida sus haberes.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-03": {
+      "id": "AF-03",
+      "titulo": "Tareas efectivamente prestadas",
+      "grupo": null,
+      "texto": "Mi mandante ejecuta en forma autónoma y sin supervisión tareas de reparación integral de bogies y de montaje final de equipos de freno, que exceden largamente las asignadas a la categoría en la que se lo registra.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-04": {
+      "id": "AF-04",
+      "titulo": "Encuadre convencional que corresponde",
+      "grupo": null,
+      "texto": "Las tareas descriptas encuadran en la categoría Oficial de mantenimiento, categoría 9 del C.C.T. 1442/15 «T», que es la que corresponde reconocer a mi mandante.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-05": {
+      "id": "AF-05",
+      "titulo": "Escala salarial de la categoría reclamada",
+      "grupo": null,
+      "texto": "El básico convencional de la categoría 9 del C.C.T. 1442/15 «T» asciende, a diciembre de 2025, a la suma de $ 1.041.760, según la escala homologada vigente.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-06": {
+      "id": "AF-06",
+      "titulo": "Diferencia mensual devengada",
+      "grupo": null,
+      "texto": "La diferencia entre lo que mi mandante percibe y lo que le corresponde según el encuadre reclamado asciende a $ 353.720 mensuales, que la demandada le adeuda desde enero de 2024.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-07": {
+      "id": "AF-07",
+      "titulo": "Suplemento por trabajo nocturno",
+      "grupo": null,
+      "texto": "Mi mandante prestó tareas en turno noche durante el período reclamado, lo que generó el suplemento nocturno que se liquida en sus recibos.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-08": {
+      "id": "AF-08",
+      "titulo": "Continuidad de la prestación",
+      "grupo": null,
+      "texto": "El vínculo laboral se mantiene vigente y mi mandante continúa desempeñando las mismas tareas que motivan este reclamo.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-09": {
+      "id": "AF-09",
+      "titulo": "Falta de respuesta de la empleadora",
+      "grupo": null,
+      "texto": "La demandada nunca respondió la solicitud de recategorización presentada por mi mandante, ni le comunicó decisión alguna al respecto.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-10": {
+      "id": "AF-10",
+      "titulo": "Registro de las tareas en el legajo",
+      "grupo": null,
+      "texto": "El legajo personal de mi mandante no contiene descripción de puesto ni instrumento alguno que delimite las tareas a su cargo.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-11": {
+      "id": "AF-11",
+      "titulo": "Intercambio de correo electrónico con el área de personal",
+      "grupo": null,
+      "texto": "Con anterioridad al distracto mi mandante mantuvo con el área de personal de la demandada un intercambio de correo electrónico en el que reclamó la correcta registración de su categoría, sin obtener respuesta.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-12": {
+      "id": "AF-12",
+      "titulo": "Instancia conciliatoria obligatoria",
+      "grupo": null,
+      "texto": "En fecha 12 de febrero de 2026 se celebró la audiencia ante el Servicio de Conciliación Laboral Obligatoria en el expediente SECLO N° 129806/2026, dándose por cumplida la instancia previa que exige la ley 24.635.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-13": {
+      "id": "AF-13",
+      "titulo": "Suma total reclamada",
+      "grupo": null,
+      "texto": "El total reclamado en autos asciende a PESOS DIECIOCHO MILLONES SEISCIENTOS SESENTA Y CUATRO MIL DOSCIENTOS OCHO CON 40/100 ($ 18.664.208,40), conforme el detalle que antecede y la liquidación que antecede.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-14": {
+      "id": "AF-14",
+      "titulo": "Intereses pretendidos",
+      "grupo": null,
+      "texto": "Se reclaman los intereses devengados desde la fecha de mora y hasta el efectivo pago, a la tasa activa de la cartera general nominal anual vencida a treinta días del Banco de la Nación Argentina, con más las costas del proceso.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-15": {
+      "id": "AF-15",
+      "titulo": "Inexistencia de pagos parciales",
+      "grupo": null,
+      "texto": "La demandada no efectuó pago alguno, ni total ni parcial, imputable a la obligación que se reclama en autos.",
+      "origen": {
+        "documento_id": "C6_DEM",
+        "pagina": 3
+      }
+    }
+  },
+  "veredictos": {
+    "AF-01": {
+      "item_id": "AF-01",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C6_DOC-1",
+          "pagina": 1,
+          "fragmento": "Fecha de ingreso 16 de marzo de 2011"
+        },
+        {
+          "documento_id": "C6_DOC-3",
+          "pagina": 2,
+          "fragmento": "figura registrado como personal en relación de dependencia desde el 16 de marzo de 2011, con vínculo vigente a la fecha de este informe."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación tiene dos datos: fecha de ingreso el 16/03/2011 y vínculo vigente. Los recibos de haberes de marzo, septiembre y diciembre de 2025 registran fecha de ingreso 16 de marzo de 2011, y la pericia contable confirma que el vínculo está vigente a la fecha de su informe."
+    },
+    "AF-02": {
+      "item_id": "AF-02",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C6_DOC-1",
+          "pagina": 1,
+          "fragmento": "Categoría Operario especializado, categoría 5"
+        },
+        {
+          "documento_id": "C6_DOC-1",
+          "pagina": 1,
+          "fragmento": "C.C.T. aplicable C.C.T. 1442/15 «T»"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación tiene dos datos: el encuadre en Operario especializado, categoría 5 del C.C.T. 1442/15 «T» y la liquidación de haberes sobre esa base. Los recibos de haberes de marzo, septiembre y diciembre de 2025 consignan esa categoría y convenio, la pericia confirma el registro en categoría 5 y la carta documental de la demandada reitera ese encuadre, por lo que ambos datos están confirmados."
+    },
+    "AF-03": {
+      "item_id": "AF-03",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C6_DOC-4",
+          "pagina": 1,
+          "fragmento": "El puesto no comprende la ejecución autónoma de reparaciones ni el montaje final de equipos de freno, tareas reservadas a la categoría Oficial."
+        },
+        {
+          "documento_id": "C6_DOC-2",
+          "pagina": 2,
+          "fragmento": "Las tareas que menciona son ejecutadas bajo supervisión de un Oficial y no habilitan el encuadre que pretende."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación sostiene que el actor ejecuta de forma autónoma tareas de reparación integral de bogies y montaje final de equipos de freno. La descripción de puesto DP-2023-00214-GRH#SOTR de la demandada dice expresamente que el puesto no comprende esas tareas, reservadas a la categoría Oficial, y la pericia y la carta documento refieren que las tareas se realizan bajo supervisión de un Oficial. Los documentos contradicen el hecho afirmado."
+    },
+    "AF-04": {
+      "item_id": "AF-04",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C6_DOC-3",
+          "pagina": 3,
+          "fragmento": "Se deja constancia de que la categoría 9 «Oficial de mantenimiento» no integra la escala del C.C.T. 1442/15 «T», cuyo escalafón llega hasta la categoría 8."
+        },
+        {
+          "documento_id": "C6_DOC-4",
+          "pagina": 1,
+          "fragmento": "El puesto no comprende la ejecución autónoma de reparaciones ni el montaje final de equipos de freno, tareas reservadas a la categoría Oficial."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación sostiene que las tareas encuadran en la categoría 9 «Oficial de mantenimiento» del C.C.T. 1442/15 «T». La pericia contable (C6_DOC-3, pág. 3) establece expresamente que esa categoría no integra la escala de dicho convenio, que llega hasta la categoría 8, y que la denominación invocada corresponde al C.C.T. 1198/11 «M». La descripción de puesto (C6_DOC-4, pág. 1) además indica que las tareas asignadas son de Operario especializado y excluye la ejecución autónoma de reparaciones y el montaje final de equipos de freno, reservados a la categoría Oficial. El dato de la categoría 9 tiene otro valor y no puede ser cierto a la vez que la prueba."
+    },
+    "AF-05": {
+      "item_id": "AF-05",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C6_DOC-3",
+          "pagina": 3,
+          "fragmento": "Se deja constancia de que la categoría 9 «Oficial de mantenimiento» no integra la escala del C.C.T. 1442/15 «T», cuyo escalafón llega hasta la categoría 8."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación atribuye a la categoría 9 del C.C.T. 1442/15 «T» un básico de $1.041.760 a diciembre de 2025. La pericia contable (punto 4) indica que la categoría 9 «Oficial de mantenimiento» no integra la escala de ese convenio, cuyo escalafón llega hasta la categoría 8, por lo que no existe un básico homologado para esa categoría en el convenio. Además, la escala que sí informa no contiene ningún valor de $1.041.760 para la categoría 9, y la afirmación y el dato de la pericia no pueden ser ciertos a la vez."
+    },
+    "AF-06": {
+      "item_id": "AF-06",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación cuantifica una diferencia mensual de $353.720 derivada del encuadre reclamado (Oficial de mantenimiento, categoría 9), pero la prueba no fija ningún monto de diferencia según ese encuadre. La pericia contable concluye que no surgen diferencias salariales a favor del actor entre enero de 2024 y diciembre de 2025, y que la categoría 9 no integra la escala del convenio, por lo que el dato del monto reclamado no tiene respaldo documental directo; no hay un documento que confirme ni contradiga expresamente el importe de $353.720.</nota>\n<parameter name=\"evidencia\">[]"
+    },
+    "AF-07": {
+      "item_id": "AF-07",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C6_DOC-3",
+          "pagina": 4,
+          "fragmento": "el suplemento nocturno liquidado en el recibo de septiembre de 2025 responde a la prestación efectiva de tareas en turno noche"
+        },
+        {
+          "documento_id": "C6_DOC-1",
+          "pagina": 2,
+          "fragmento": "Suplemento nocturno 121.844,00"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación se refiere a que el actor prestó tareas en turno noche, generando el suplemento nocturno liquidado. El recibo de septiembre de 2025 registra \"Suplemento nocturno 121.844,00\", y la pericia contable confirma que dicho suplemento \"responde a la prestación efectiva de tareas en turno noche\". Ambos hechos están respaldados por la prueba."
+    },
+    "AF-08": {
+      "item_id": "AF-08",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación tiene dos datos: vínculo vigente y continuidad en las mismas tareas. La pericia contable (C6_DOC-3, pág. 2) confirma el vínculo vigente a la fecha de su informe, pero ningún documento describe las tareas actuales del actor más allá de la descripción de puesto de 2023 y la nota de 2025, que son insuficientes para confirmar que continúa realizando las mismas tareas que motivan el reclamo. Como falta confirmar uno de los datos, no alcanza para ENCONTRADO."
+    },
+    "AF-09": {
+      "item_id": "AF-09",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C6_DOC-4",
+          "pagina": 2,
+          "fragmento": "su solicitud de recategorización fue analizada por esta Gerencia y desestimada"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación niega que la demandada haya respondido la solicitud de recategorización. La Nota N° NO-2025-00742118-APN-GRH#SOTR del 27/11/2025 comunica expresamente que la solicitud fue analizada y desestimada, lo que contradice que no se haya comunicado decisión alguna."
+    },
+    "AF-10": {
+      "item_id": "AF-10",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C6_DOC-4",
+          "pagina": 1,
+          "fragmento": "La presente descripción se incorpora al legajo del agente y le fue notificada en la fecha."
+        },
+        {
+          "documento_id": "C6_DOC-4",
+          "pagina": 2,
+          "fragmento": "según la descripción DP-2023-00214-GRH#SOTR obrante en su legajo."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación niega que el legajo contenga descripción de puesto o instrumento que delimite tareas. La prueba C6_DOC-4 página 1 contiene expresamente la \"Descripción de puesto N° DP-2023-00214-GRH#SOTR\" que \"se incorpora al legajo del agente\", y la nota de página 2 la invoca como obrante en el legajo, por lo que la afirmación es contradicha."
+    },
+    "AF-11": {
+      "item_id": "AF-11",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación refiere a un intercambio de correo electrónico con el área de personal, sin respuesta. La prueba contiene un telegrama (TL 91744038, 4/11/2025) y una carta documento de rechazo (CD 266908114, 18/11/2025), y una nota de desestimación de 27/11/2025, pero ningún documento menciona correos electrónicos ni su falta de respuesta. Los medios de comunicación probados son telegramas y cartas documento, por lo que el dato del correo electrónico no tiene respaldo."
+    },
+    "AF-12": {
+      "item_id": "AF-12",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación refiere a una audiencia ante el SECLO el 12/02/2026 en el expediente SECLO N° 129806/2026. Revisé los cuatro documentos de la prueba (recibos de haberes, intercambio telegráfico, pericia contable y descripción de puesto/actuaciones de personal) y ninguno menciona el SECLO, la audiencia de conciliación, el número de expediente SECLO ni la ley 24.635. No hay material para confirmar ni desmentir el hecho."
+    },
+    "AF-13": {
+      "item_id": "AF-13",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación indica un total reclamado de $18.664.208,40 \"conforme el detalle y la liquidación que antecede\", pero el expediente no contiene ninguna liquidación de reclamo ni un detalle que sume ese monto. Los recibos de haberes, el telegrama, la pericia y las actuaciones de personal no registran ningún total reclamado, por lo que no hay dato con el que comparar la cifra."
+    },
+    "AF-14": {
+      "item_id": "AF-14",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación tiene como objeto los intereses, la fecha de mora, la tasa aplicable y las costas, que son conclusiones jurídicas y no hechos verificables. La prueba no contiene datos sobre tasas de interés ni sobre costas, y no hay un documento que desmienta expresamente esos extremos. Corresponde SIN MATERIAL."
+    },
+    "AF-15": {
+      "item_id": "AF-15",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación es negativa: que no hubo ningún pago imputable a la obligación reclamada. La prueba contiene los recibos de haberes de marzo, septiembre y diciembre de 2025 y la pericia contable, pero ningún documento dice expresamente que no se haya efectuado pago alguno imputable a la diferencia reclamada. La falta de menciones no respalda una afirmación negativa, por lo que no hay material suficiente para confirmarla ni para contradecirla."
+    }
+  }
+}

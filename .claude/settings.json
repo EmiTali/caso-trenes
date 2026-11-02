@@ -1,0 +1,25 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          { "type": "command", "command": "python .claude/hooks/check_syntax.py" }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PROJECT_DIR}/env/Scripts/python.exe",
+            "args": ["${CLAUDE_PROJECT_DIR}/.claude/hooks/eval_al_terminar.py"],
+            "timeout": 300,
+            "statusMessage": "Corriendo evals de Trenes (solo si cambió el código)..."
+          }
+        ]
+      }
+    ]
+  }
+}

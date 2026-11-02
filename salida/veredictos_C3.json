@@ -1,0 +1,350 @@
+{
+  "expediente": "C3",
+  "config": {
+    "modo": "realtime",
+    "effort": "medium"
+  },
+  "items": {
+    "AF-01": {
+      "id": "AF-01",
+      "titulo": "Existencia del contrato de servicio",
+      "grupo": null,
+      "texto": "En fecha 3 de junio de 2024 la demandada adjudicó a mi mandante el contrato CT-42/2024, tramitado bajo el expediente EX-2024-00297714-APN-GIN#SOTR, para el mantenimiento de vía del ramal Retiro — Villa Rosa.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-02": {
+      "id": "AF-02",
+      "titulo": "Alcance del servicio contratado",
+      "grupo": null,
+      "texto": "El contrato comprendió, además de las tareas de vía, la provisión de un servicio de guardia permanente los siete días de la semana y la atención de emergencias dentro de las dos horas de requerida, con dotación propia y equipamiento afectado en forma exclusiva al ramal.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-03": {
+      "id": "AF-03",
+      "titulo": "Régimen de precios",
+      "grupo": null,
+      "texto": "Los precios unitarios convenidos son redeterminables conforme la variación de los índices de la construcción publicados por el I.N.D.E.C., mecanismo que la demandada nunca aplicó pese a los reclamos de mi mandante.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-04": {
+      "id": "AF-04",
+      "titulo": "Plazo de pago pactado",
+      "grupo": null,
+      "texto": "El pago de cada certificación mensual se convino a los sesenta (60) días corridos de su presentación, plazo que se encuentra vencido respecto de las cuatro certificaciones que se reclaman.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-05": {
+      "id": "AF-05",
+      "titulo": "Conformidad de la Inspección de Obra",
+      "grupo": null,
+      "texto": "La totalidad de los partes de servicio fue conformada por la Inspección de Obra de la demandada, sin observación alguna respecto de las tareas ejecutadas.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-06": {
+      "id": "AF-06",
+      "titulo": "Metros de vía intervenidos",
+      "grupo": null,
+      "texto": "Durante el período reclamado mi mandante intervino cuatro mil doscientos (4.200) metros de vía principal ascendente en tareas de rebaje de riel por amolado.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-07": {
+      "id": "AF-07",
+      "titulo": "Importe de la certificación de noviembre",
+      "grupo": null,
+      "texto": "La certificación correspondiente al mes de noviembre de 2025, instrumentada en la factura N° 0003-00001288, asciende a $ 43.525.126,57.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-08": {
+      "id": "AF-08",
+      "titulo": "Ausencia de observaciones a las certificaciones",
+      "grupo": null,
+      "texto": "Ninguna de las certificaciones presentadas fue observada ni objetada por la demandada dentro de los plazos previstos en el contrato.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 2
+      }
+    },
+    "AF-09": {
+      "id": "AF-09",
+      "titulo": "Intercambio de correo electrónico",
+      "grupo": null,
+      "texto": "Con anterioridad a promover la presente acción mi mandante mantuvo con la demandada un intercambio de correo electrónico en el que reclamó el pago de lo adeudado, sin obtener respuesta que lo satisficiera.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-10": {
+      "id": "AF-10",
+      "titulo": "Carta documento",
+      "grupo": null,
+      "texto": "En fecha 16 de enero de 2026 mi parte remitió a la demandada la carta documento N° CD 231907744, intimándola al pago en el plazo de cuarenta y ocho (48) horas bajo apercibimiento de iniciar las acciones judiciales pertinentes. La pieza postal fue efectivamente entregada y no mereció respuesta alguna.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-11": {
+      "id": "AF-11",
+      "titulo": "Pronto despacho",
+      "grupo": null,
+      "texto": "En fecha 22 de enero de 2026 se presentó ante la Mesa de Entradas de la demandada la nota de pronto despacho N° RA-2026-00092, cuya recepción consta con el sello de Mesa General de Entradas, SOTR S.E..",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-12": {
+      "id": "AF-12",
+      "titulo": "Suma total reclamada",
+      "grupo": null,
+      "texto": "El total reclamado en autos asciende a PESOS CIENTO OCHENTA Y SEIS MILLONES CUATROCIENTOS TREINTA MIL NOVECIENTOS DOCE CON 44/100 ($ 186.430.912,44), conforme el detalle que antecede y la certificación contable que se acompaña.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-13": {
+      "id": "AF-13",
+      "titulo": "Fecha de constitución en mora",
+      "grupo": null,
+      "texto": "La demandada quedó constituida en mora de pleno derecho el 3 de febrero de 2026, por haber vencido el plazo pactado sin que mediara pago ni observación alguna.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-14": {
+      "id": "AF-14",
+      "titulo": "Intereses pretendidos",
+      "grupo": null,
+      "texto": "Se reclaman los intereses devengados desde la fecha de mora y hasta el efectivo pago, a la tasa activa del Banco de la Nación Argentina para operaciones de descuento a treinta días, capitalizable, con más las costas del proceso.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 3
+      }
+    },
+    "AF-15": {
+      "id": "AF-15",
+      "titulo": "Inexistencia de pagos parciales",
+      "grupo": null,
+      "texto": "La demandada no efectuó pago alguno, ni total ni parcial, imputable a la obligación que se reclama en autos.",
+      "origen": {
+        "documento_id": "C3_DEM",
+        "pagina": 3
+      }
+    }
+  },
+  "veredictos": {
+    "AF-01": {
+      "item_id": "AF-01",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C3_DOC-1",
+          "pagina": 1,
+          "fragmento": "Fecha de emisión 3 de junio de 2024"
+        },
+        {
+          "documento_id": "C3_DOC-1",
+          "pagina": 1,
+          "fragmento": "Expediente EX-2024-00297714-APN-GIN#SOTR"
+        }
+      ],
+      "confianza": null,
+      "nota": "La orden de compra CT-42/2024 registra fecha de emisión 3 de junio de 2024, el expediente EX-2024-00297714-APN-GIN#SOTR y como lugar de entrega el Ramal Retiro — Villa Rosa, con el proveedor Vías y Obras del Centro S.A. Los datos de fecha, expediente, objeto y proveedor coinciden con la afirmación; el documento formaliza la emisión de la orden de compra, que es el acto de adjudicación."
+    },
+    "AF-02": {
+      "item_id": "AF-02",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación atribuye al contrato un servicio de guardia permanente, atención de emergencias en dos horas, dotación propia y equipamiento exclusivo. El contrato CT-42/2024 y sus anexos solo describen renglones de tareas de vía (rebaje de riel, durmientes, balasto, fijaciones) y condiciones de entrega y recepción, sin mencionar guardia, emergencias ni equipamiento exclusivo. Como el dato afirmado no aparece en la prueba revisada, no hay material para confirmarlo ni para contradecirlo expresamente."
+    },
+    "AF-03": {
+      "item_id": "AF-03",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C3_DOC-1",
+          "pagina": 3,
+          "fragmento": "Los precios unitarios son firmes y definitivos por todo el plazo contractual. El contrato no admite redeterminación, actualización ni reconocimiento de mayores costos por ningún concepto."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación sostiene que los precios son redeterminables según índices del INDEC. La cláusula 2 de la Orden de Compra CT-42/2024 establece expresamente que los precios unitarios son firmes y definitivos y que el contrato no admite redeterminación, actualización ni reconocimiento de mayores costos, lo que contradice directamente el dato afirmado."
+    },
+    "AF-04": {
+      "item_id": "AF-04",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C3_DOC-1",
+          "pagina": 3,
+          "fragmento": "1. El pago de cada certificación se efectuará a los sesenta (60) días corridos de su presentación"
+        }
+      ],
+      "confianza": null,
+      "nota": "La cláusula 1 de las cláusulas generales del Contrato CT-42/2024 fija el pago de cada certificación a los sesenta (60) días corridos de su presentación, igual a lo afirmado. La calificación de que el plazo está vencido respecto de las cuatro certificaciones es una conclusión que no se exige verificar, y el dato del plazo pactado coincide con la prueba."
+    },
+    "AF-05": {
+      "item_id": "AF-05",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C3_DOC-2",
+          "pagina": 4,
+          "fragmento": "Observaciones Sin conformar. La Inspección de Obra observa que el ítem 1 no fue ejecutado en el período y"
+        },
+        {
+          "documento_id": "C3_DOC-2",
+          "pagina": 4,
+          "fragmento": "descuenta los metros correspondientes"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación dice que todos los partes de servicio fueron conformados sin observación alguna. El parte PS-2025-1113 (página 4 de C3_DOC-2) figura \"Sin conformar\" y registra una observación de la Inspección de Obra que descuenta el ítem 1, lo que contradice expresamente ambos datos afirmados."
+    },
+    "AF-06": {
+      "item_id": "AF-06",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C3_DOC-2",
+          "pagina": 1,
+          "fragmento": "1 Rebaje de riel por amolado, vía principal ascendente 1.050"
+        },
+        {
+          "documento_id": "C3_DOC-2",
+          "pagina": 3,
+          "fragmento": "1 Rebaje de riel por amolado, vía principal ascendente 1.050"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación cuantifica 4.200 metros de rebaje de riel por amolado durante el período reclamado. La prueba registra ese renglón con cantidad contratada de 4.200 metros, pero los partes conformados muestran 1.050 metros en agosto y 1.050 en octubre, con 0 metros en noviembre (sin conformar), lo que suma 2.100 metros ejecutados y certificados, no 4.200. La suma de las partes da otro valor respecto de lo afirmado como intervención efectiva, por lo que no pueden ser ciertos ambos a la vez."
+    },
+    "AF-07": {
+      "item_id": "AF-07",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C3_DOC-3",
+          "pagina": 4,
+          "fragmento": "Total de la factura $ 38.118.406,31"
+        },
+        {
+          "documento_id": "C3_DOC-4",
+          "pagina": 1,
+          "fragmento": "el importe certificable del mes asciende a $ 38.118.406,31 y no al consignado en la factura N° 0003-00001288"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación indica que la certificación de noviembre de 2025 (factura N° 0003-00001288) asciende a $ 43.525.126,57. La prueba fija el total de esa factura en $ 38.118.406,31 (C3_DOC-3, pág. 4) y la nota de la Gerencia de Infraestructura confirma que el importe certificable del mes es $ 38.118.406,31, por lo que el monto afirmado no coincide y ambos valores no pueden ser ciertos a la vez."
+    },
+    "AF-08": {
+      "item_id": "AF-08",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C3_DOC-4",
+          "pagina": 1,
+          "fragmento": "la certificación correspondiente al mes de noviembre de 2025 fue observada por la Inspección de Obra."
+        },
+        {
+          "documento_id": "C3_DOC-2",
+          "pagina": 4,
+          "fragmento": "Sin conformar. La Inspección de Obra observa que el ítem 1 no fue ejecutado en el período y descuenta los metros correspondientes"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación niega que alguna certificación haya sido observada por la demandada. La prueba registra que la certificación de noviembre de 2025 (factura N° 0003-00001288) fue observada por la Inspección de Obra mediante la nota NO-2026-00318442-APN-GIN#SOTR, y que el parte de noviembre fue presentado sin conformar. Esto contradice expresamente la afirmación, sin que importe el plazo."
+    },
+    "AF-09": {
+      "item_id": "AF-09",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación refiere a un intercambio de correos electrónicos de reclamo de pago, hecho que ninguno de los documentos del expediente menciona. Los documentos revisados (contrato, partes, facturas, actuaciones administrativas y certificación contable) solo registran un reclamo administrativo previo (RA-2026-00092) y no un intercambio de correo electrónico, por lo que el dato no puede confirmarse."
+    },
+    "AF-10": {
+      "item_id": "AF-10",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación refiere a una carta documento N° CD 231907744 enviada el 16/01/2026 con intimación a pagar en 48 horas. Revisé los cinco documentos del expediente C3 y ninguno menciona una carta documento, ni su número, ni una intimación de pago de esa fecha; la única intimación registrada es la nota NO-2026-00318442-APN-GIN#SOTR del 20/02/2026, que es emitida por la demandada, no por la actora. Como no hay material que confirme ni contradiga los datos afirmados, corresponde SIN MATERIAL."
+    },
+    "AF-11": {
+      "item_id": "AF-11",
+      "estado": "respaldada",
+      "evidencia": [
+        {
+          "documento_id": "C3_DOC-4",
+          "pagina": 2,
+          "fragmento": "interpuesto por la contratista y registrado por la Mesa General de Entradas el 22 de enero de 2026"
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación requiere la fecha 22 de enero de 2026 y el número RA-2026-00092 de un reclamo registrado por Mesa General de Entradas. El dictamen IF-2026-00402118-APN-GAJ#SOTR (C3_DOC-4, p. 2) confirma que el reclamo administrativo previo RA-2026-00092 fue registrado por la Mesa General de Entradas el 22 de enero de 2026, coincidiendo con la fecha y número afirmados. Sin embargo, la prueba no documenta la nota de pronto despacho en sí ni el sello de recepción, por lo que el dato del sello no está respaldado de forma literal y expresa más allá de la mención de registro."
+    },
+    "AF-12": {
+      "item_id": "AF-12",
+      "estado": "contradicha",
+      "evidencia": [
+        {
+          "documento_id": "C3_DOC-5",
+          "pagina": 2,
+          "fragmento": "TOTAL 181.024.192,18"
+        },
+        {
+          "documento_id": "C3_DOC-5",
+          "pagina": 2,
+          "fragmento": "el total de los créditos así registrados asciende a USD 181.024.192,18."
+        }
+      ],
+      "confianza": null,
+      "nota": "La afirmación reclama un total de $186.430.912,44. Las cuatro facturas de C3_DOC-3 suman $181.024.192,18 (41.883.004,10 + 48.027.663,72 + 52.995.118,05 + 38.118.406,31), y la certificación contable de C3_DOC-5 fija el mismo total de 181.024.192,18, por lo que el monto afirmado no coincide con la prueba ni puede ser cierto a la vez."
+    },
+    "AF-13": {
+      "item_id": "AF-13",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación es una conclusión jurídica sobre la fecha de mora, cuyo objeto es la mora misma, por lo que no es un hecho verificable que la prueba confirme. Revisé el contrato CT-42/2024 y las certificaciones y actuaciones del expediente, y no hay ningún documento que mencione una fecha de mora ni el 3 de febrero de 2026. Además, la prueba registra una observación de la Inspección de Obra (nota NO-2026-00318442), lo que no coincide con \"sin observación alguna\", aunque no es un dato que decida el caso por sí solo."
+    },
+    "AF-14": {
+      "item_id": "AF-14",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación tiene por objeto el reclamo de intereses a una tasa determinada y de costas, que es una conclusión jurídica sobre mora e intereses. La prueba contiene cláusulas del contrato que excluyen intereses a favor del contratista, pero no desmiente un dato fáctico concreto de la afirmación, por lo que no corresponde juzgarla como hecho verificable. Revisé los documentos del expediente y no hay material que confirme o contradiga la tasa, la capitalización ni la fecha de mora reclamadas."
+    },
+    "AF-15": {
+      "item_id": "AF-15",
+      "estado": "sin_respaldo",
+      "evidencia": [],
+      "confianza": null,
+      "nota": "La afirmación es negativa (no hubo pago alguno). La prueba no contiene ningún documento que registre expresamente la falta de pago: las facturas, certificaciones y actuaciones muestran que las certificaciones están pendientes o en trámite de pago, pero no que no se haya efectuado pago alguno. Revisé C3_DOC-1 a C3_DOC-5 sin hallar un dato que confirme o contradiga expresamente la ausencia total de pagos, por lo que no alcanza para ENCONTRADO ni CONTRADICE."
+    }
+  }
+}

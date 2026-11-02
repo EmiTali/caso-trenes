@@ -1,0 +1,7 @@
+env/
+.env
+__pycache__/
+cache/
+salida/*
+!salida/veredictos_*.json
+/corpus
